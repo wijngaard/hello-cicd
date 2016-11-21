@@ -1,2 +1,2 @@
 # hello-cicd
-Hello app intergrating a angularJS front end with a java backend using Jenkins CI
+Hello app intergrating an AngularJS front end with a Java backend using Jenkins CI
